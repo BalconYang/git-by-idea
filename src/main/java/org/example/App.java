@@ -11,5 +11,6 @@ public class App
         System.out.println("git test");
         System.out.println("git test2");
         System.out.println("git test3 from other commit");
+        System.out.println("git test4 by master");
     }
 }
